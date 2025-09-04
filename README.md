@@ -5,10 +5,10 @@ Proyek ini adalah aplikasi berbasis **PHP + MySQL** dengan tampilan modern mengg
 ## 📊 Demo Screenshots
 
 ### Dashboard
-![Dashboard](assets/screenshots/contoh2.png)
+![Dashboard](assets/screenshoots/contoh2.png)
 
 ### Laporan Chart
-![Chart](assets/screenshots/contoh5.png)
+![Chart](assets/screenshoots/contoh5.png)
 
 ## ✨ Fitur Utama
 - Input transaksi (gaji, makan, kopi, bensin, dan pengeluaran tambahan).
